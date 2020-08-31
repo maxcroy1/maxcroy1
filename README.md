@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **max.croy1@gmail.com**
 
-- ⚡ Fun fact **Born and raised in Santa Fe, New Mexico**
+- ⚡ Fun fact **born and raised in Santa Fe, New Mexico**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
