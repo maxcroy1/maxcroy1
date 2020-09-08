@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate and curious front end web developer and software engineer based in Brooklyn</h3>
+<h3 align="center">A passionate and curious full stack web developer and software engineer based in Brooklyn</h3>
 
 - 🔭 I’m currently working on [AutoGrocer](https://github.com/maxcroy1/AutoGrocer)
 
