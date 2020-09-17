@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate and curious full stack web developer and software engineer based in Brooklyn</h3>
 
-- 🔭 I’m currently working on [AutoGrocer](https://github.com/maxcroy1/AutoGrocer)
+- 🔭 I’m currently working on [PrintAPI](https://github.com/maxcroy1/print_database)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Web Scraping**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
