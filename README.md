@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate and curious software engineer based in Brooklyn</h3>
 
-- 🔭 I’m currently working on [a special project!]
+- 🔭 I’m currently working on **a special project!**
 
 - 🌱 I’m currently learning **Microservice Architecture**
 
