@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate and curious full stack web developer and software engineer based in Brooklyn</h3>
+<h3 align="center">A passionate and curious software engineer based in Brooklyn</h3>
 
-- 🔭 I’m currently working on [PrintAPI](https://github.com/maxcroy1/print_database)
+- 🔭 I’m currently working on [a special project!]
 
-- 🌱 I’m currently learning **Web Scraping**
+- 🌱 I’m currently learning **Microservice Architecture**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@MaxCroy1](https://medium.com/@MaxCroy1)
 
-- 💬 Ask me about **React or Ruby on Rails**
+- 💬 Ask me about **React Native or JavaScript**
 
 - 📫 How to reach me **max.croy1@gmail.com**
 
